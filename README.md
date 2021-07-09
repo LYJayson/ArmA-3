@@ -7,3 +7,6 @@ BettIR_Core.rar
   
   //BettIR_Core.rar There is README.md inside. Look at README.md to explain the operation, and there are corresponding code comments in cfg.cpp
 }
+
+观察者模式调用代码
+2021.7.9
